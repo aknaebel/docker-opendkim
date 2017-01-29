@@ -67,6 +67,8 @@ localhost
 
 contain the public/private key for each domain
 
+the content of ```keys/<domain name>/mail.txt``` must be added in the DNS zone for the domain
+
 ## Documentation:
 
 See the [official documentation](http://www.opendkim.org/) to configure your openddkim service
